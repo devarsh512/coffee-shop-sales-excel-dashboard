@@ -34,7 +34,7 @@ The dataset includes:
 - Interactive slicers (Month & Day)
 
 ## 🖼 Dashboard Preview
-![Dashboard](images/Coffe_Shop_Sales_Dashboard.png)
+![Dashboard](images/Coffe_Shope_Sales_Dashboard.png)
 
 ## 🔍 Key Insights
 - Morning hours generate maximum revenue
